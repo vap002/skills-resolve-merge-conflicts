@@ -1,3 +1,4 @@
+my-resume
 # Project References and Guidelines
 
 ## Current API Endpoints (Updated)
@@ -8,3 +9,8 @@
 ## Security Protocols
 *   Passwords must be at least 16 characters long
 *   All API keys should be rotated weekly
+
+# References
+
+* octocat 1 😈
+main
